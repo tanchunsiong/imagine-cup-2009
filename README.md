@@ -95,7 +95,7 @@ MIT License
 
 ## Links
 
-- Blog post: [www.tanchunsiong.com](https://www.tanchunsiong.com)
+- Blog post: [Imagine Cup 2009: Sensor-Based Conference Networking System](https://www.tanchunsiong.com/2009/07/imagine-cup-2009-sensor-based-conference-networking-system/)
 - GitHub: [@tanchunsiong](https://github.com/tanchunsiong)
 - LinkedIn: [tanchunsiong](https://www.linkedin.com/in/tanchunsiong)
 - X/Twitter: [@tanchunsiong](https://x.com/tanchunsiong)
