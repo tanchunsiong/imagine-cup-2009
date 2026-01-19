@@ -1,0 +1,282 @@
+body{
+	background-color: #fff;
+	font-family: Helvetica, Arial, Geneva, sans-serif;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+}
+
+a,
+a:visited{
+	color: #20c;
+}
+
+p {
+	font-size: 12px;
+	line-height: 20px;
+	margin: 8px 0;
+}
+
+h3 {
+	font-size: 14px;
+}
+
+ul, ol{
+	margin: 0;
+	padding: 0 0 0 30px;	
+}
+
+li{
+	font-size: 12px;
+	padding: 0;
+	margin: 0;
+	margin-top: 5px;
+}
+
+.container{
+	margin: 0 auto;
+	padding: 0;
+	width: 950px;
+}
+
+#header{
+	padding: 13px 0;
+	background-color: #000;
+	color: #fff;
+	font-size: 24px;
+}
+	#greetings{
+		float: right;
+		font-size: 14px;
+		margin-top: 6px;
+		margin-right: 10px;
+	}
+
+	#logout{
+		color: #fff;
+		text-decoration: none;	
+	}
+	
+	a#logout:hover{
+		text-decoration: underline;
+	}
+
+#navbar{
+	background-color: #eee;
+}
+
+#nav{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	border-left: 1px solid #ccc;
+}
+
+#nav li{
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+#nav li a,
+#nav li a:visited{
+	padding: 8px 15px;
+	display: block;
+	border-right: 1px solid #ccc;
+	background-color: #eee;
+	text-decoration: none;
+	color: #333;
+	font-size: 12px;
+}
+
+#nav li a:hover{
+	background-color: #ddd;
+	color: #fff;
+}
+
+#nav li a#nav_selected{
+	font-weight: bold;
+	background-color: #ddd;
+}
+
+#content{
+	padding: 10px 15px 0;
+}
+
+	.layout{
+		border-collapse: collapse;
+		width: 100%;
+	}
+	
+	.layout tr td{
+		vertical-align: top;
+		padding: 0px 15px 15px 0;
+		/*border: 1px solid #ccc;*/
+	}
+	
+	.layout tr td h2{
+		margin: 10px 0 10px;
+		padding: 0;
+		font-size: 18px;
+	}
+	
+/** Alert System **/	
+	#alert_system{
+		width: 100%;
+		border-collapse: collapse;	
+	}
+
+	#alert_system tr th,
+	#alert_system tr td{
+		border: 1px solid #ccc;
+		text-align: center;
+		padding: 7px 10px;
+		vertical-align: middle;
+		font-size: 12px;
+	}
+	
+	#alert_system tr td.low,
+	#alert_system tr td.high{
+		text-align: left;
+		width: 95px;
+	}
+	
+	#alert_system tr td input{
+		width: 40px;
+		text-align: right;
+	}
+	
+	#alert_system tr td .switch_default_on,
+	#alert_system tr td .switch_default_off{
+		margin: 0 auto;
+	}
+	
+	#area{
+		float: right;
+		margin-top: 10px;
+	}
+	
+	.bubbleInfo {
+	    position: relative;
+	    z-index: 3000;
+	}
+	
+	.popup {
+	    position: absolute;
+	    display: none; /* keeps the popup hidden if no JS available */
+	    background-color: #fff;
+	    padding: 15px;
+	    border: 4px solid #333;
+	}
+	
+	.graph_title{
+		text-align:center;
+		text-decoration: underline;
+		margin-bottom: 10px;
+		font-size: 14px;
+		font-weight: bold;
+	}
+	
+	
+	
+/** Market Info **/
+	.market_prices {
+		border-collapse: collapse;
+	}
+
+	.market_prices tr th,
+	.market_prices tr td{
+		border: 1px solid #ccc;
+		padding: 5px;
+	}
+	
+/** Marketplace **/
+
+	#buying_form{
+		background-color: #ffc;
+		border-collapse: collapse;
+	}
+	
+	#buying_form tr th,
+	#buying_form tr td{
+		padding: 5px 5px;	
+		font-size: 12px;
+	}
+	
+	#buying_form tr th{
+		padding-left: 25px;
+		text-align: right;
+	}
+	
+	table#supplier_market{
+		border-collapse: collapse;
+		width: 100%;
+	}
+	
+	table#supplier_market tr th,
+	table#supplier_market tr td{
+		padding: 7px 10px;
+		border: 1px solid #ccc;
+		font-size: 12px;
+		text-align: left;
+	}
+	
+	table#current_listing{
+		border-collapse: collapse;
+		width: 100%;
+	}
+	
+	table#current_listing tr th,
+	table#current_listing tr td{
+		padding: 7px 10px;
+		border: 1px solid #ccc;
+		font-size: 12px;
+		text-align: left;
+	}
+	
+/** KnowledgeBase **/
+
+	#top10{
+		width: 100%;
+	}
+	
+	#top10 tr td{
+		vertical-align: middle;
+		padding: 5px;
+	}
+	
+	.top10_num{
+		width: 15px;
+	}
+	
+	.top10_img{
+		width: 40px;
+	}
+	
+	#search{
+		padding: 0px 5px;
+		font-size: 13px;
+	}
+
+#footer{
+	margin-top: 30px;
+	clear: both;
+	padding: 5px 0;
+	font-size: 12px;
+	text-align: center;
+	border-top: 1px solid #ccc;
+}
+	
+	#footer_credits{
+		width: 100%;
+	}
+	
+	#footer_credits .left{
+		text-align: left;
+		vertical-align: middle;
+	}
+	
+	#footer_credits .right{
+		text-align: right;
+		vertical-align: middle;
+	}

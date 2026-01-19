@@ -1,0 +1,10 @@
+﻿
+migrate to phyoDB on mic network
+check verb
+integrate current image with veshape overlay
+async status label
+check with phyo how to delete data
+
+get phyo to do something like upload only those that are clean
+improve algorithm where those area is crazily long
+update ischecked

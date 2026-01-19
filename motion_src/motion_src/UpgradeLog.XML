@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="motion">
+</Property><Property Name="Solution File" Value="C:\Users\v-yishen\Downloads\motion_src\motion_src\motion.sln">
+</Property><Property Name="User Options File" Value="C:\Users\v-yishen\Downloads\motion_src\motion_src\motion.suo">
+</Property><Property Name="Date" Value="Wednesday, May 06, 2009">
+</Property><Property Name="Time" Value="15:51 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="motion.sln" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion.sln">
+</Event><Event ErrorLevel="0" Project="" Source="motion.suo" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion.suo">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\motion.csproj" Description="Project file successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\motion.csproj">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\AboutForm.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\AboutForm.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\Camera.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\Camera.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\CameraWindow.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\CameraWindow.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\CaptureDeviceForm.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\CaptureDeviceForm.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\IMotionDetector.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\IMotionDetector.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\MainForm.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\MotionDetector1.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\MotionDetector1.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\MotionDetector2.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\MotionDetector2.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\MotionDetector3.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\MotionDetector3.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\MotionDetector3Optimized.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\MotionDetector3Optimized.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\MotionDetector4.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\MotionDetector4.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\URLForm.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\URLForm.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\VideoSource\ByteArrayUtils.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\VideoSource\ByteArrayUtils.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\VideoSource\CameraEvents.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\VideoSource\CameraEvents.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\VideoSource\CaptureDevice.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\VideoSource\CaptureDevice.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\VideoSource\IVideoSource.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\VideoSource\IVideoSource.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\VideoSource\JPEGStream.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\VideoSource\JPEGStream.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\VideoSource\MJPEGStream.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\VideoSource\MJPEGStream.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\VideoSource\VideoFileSource.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\VideoSource\VideoFileSource.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\VideoSource\VideoStream.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\VideoSource\VideoStream.cs">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\Copyright.txt" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\Copyright.txt">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\App.ico" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\App.ico">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\AboutForm.resx" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\AboutForm.resx">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\CameraWindow.resx" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\CameraWindow.resx">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\CaptureDeviceForm.resx" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\CaptureDeviceForm.resx">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\MainForm.resx" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\Resources\1.gif" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\Resources\1.gif">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\Resources\2.gif" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\Resources\2.gif">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\Resources\3.gif" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\Resources\3.gif">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\Resources\4.gif" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\Resources\4.gif">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\Resources\5.gif" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\Resources\5.gif">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\Resources\6.gif" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\Resources\6.gif">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\Resources\7.gif" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\Resources\7.gif">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\Resources\8.gif" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\Resources\8.gif">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\Resources\9.gif" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\Resources\9.gif">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\URLForm.resx" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\motion\URLForm.resx">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\motion.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="motion" Source="motion\motion.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\dshow.csproj" Description="Project file successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\dshow.csproj">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Core\IBaseFilter.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Core\IBaseFilter.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Core\IBasicVideo.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Core\IBasicVideo.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Core\ICreateDevEnum.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Core\ICreateDevEnum.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Core\IEnumPins.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Core\IEnumPins.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Core\IFileSourceFilter.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Core\IFileSourceFilter.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Core\IFilterGraph.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Core\IFilterGraph.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Core\IGraphBuilder.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Core\IGraphBuilder.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Core\IMediaControl.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Core\IMediaControl.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Core\IMediaEvent.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Core\IMediaEvent.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Core\IMediaPosition.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Core\IMediaPosition.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Core\IMediaSeeking.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Core\IMediaSeeking.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Core\IPin.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Core\IPin.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Core\IPropertyBag.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Core\IPropertyBag.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Core\ISampleGrabber.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Core\ISampleGrabber.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Core\IVideoFrameStep.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Core\IVideoFrameStep.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Core\IVideoWindow.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Core\IVideoWindow.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Core\Structures.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Core\Structures.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Core\Uuids.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Core\Uuids.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Core\Win32.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Core\Win32.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Filter.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Filter.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\FilterCollection.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\FilterCollection.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Tools.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Tools.cs">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\Core\1.txt" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\dshow\Core\1.txt">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\dshow.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="dshow" Source="dshow\dshow.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="vfw" Source="vfw\vfw.csproj" Description="Project file successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\vfw\vfw.csproj">
+</Event><Event ErrorLevel="0" Project="vfw" Source="vfw\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\vfw\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="vfw" Source="vfw\AVIReader.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\vfw\AVIReader.cs">
+</Event><Event ErrorLevel="0" Project="vfw" Source="vfw\AVIWriter.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\vfw\AVIWriter.cs">
+</Event><Event ErrorLevel="0" Project="vfw" Source="vfw\Win32.cs" Description="File successfully backed up as C:\Users\v-yishen\Downloads\motion_src\motion_src\Backup\vfw\Win32.cs">
+</Event><Event ErrorLevel="0" Project="vfw" Source="vfw\vfw.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="vfw" Source="vfw\vfw.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="motion.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="motion.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="motion" Source="motion\motion.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="dshow" Source="dshow\dshow.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="vfw" Source="vfw\vfw.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
